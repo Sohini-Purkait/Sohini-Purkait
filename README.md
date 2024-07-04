@@ -1,11 +1,13 @@
 ![logo](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
-[![An image of @sohinipurkait's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sohinipurkait)](https://holopin.io/@sohinipurkait)
+
 
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=A143F7&background=FCF8F700&center=true&vCenter=true&random=false&width=437&height=57&lines=Hello!++%F0%9F%91%8B+I+am+Sohini+Purkait" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">A passionate Coding Enthusiast & an aspiring Software Engineer from India</h3>
+
+[![An image of @sohinipurkait's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sohinipurkait)](https://holopin.io/@sohinipurkait)
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohini-purkait&label=Profile%20views&color=0e75b6&style=flat" alt="sohini-purkait" /> </p>
