@@ -1,16 +1,18 @@
 ![logo](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
-
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=A143F7&background=FCF8F700&center=true&vCenter=true&random=false&width=437&height=57&lines=Hello!++%F0%9F%91%8B+I+am+Sohini+Purkait" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">A passionate Coding Enthusiast & an aspiring Software Engineer from India</h3>
 
-
+<div align="center">
+  <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+  <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+  <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+</div>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif">
-
 
 [![](https://visitcount.itsvg.in/api?id=Sohini-Purkait&icon=4&color=11)](https://visitcount.itsvg.in)
 
@@ -31,26 +33,49 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,git,github,mysql,figma)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,react,django,nodejs)](https://skillicons.dev)
 
-<br></br>
+
+<div align="center">
+  <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+  <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+  <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+</div>
+
 
 <div align="center">
   <h2>🐍Snake Eating My Contributions🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Sohini-Purkait/Sohini-Purkait/output/github-contribution-grid-snake.svg" />
-
-  <br/><br/><br/>
 </div>
 
+<div align="center">
+  <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+  <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+  <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+</div>
+
+
 [![An image of @sohinipurkait's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sohinipurkait)](https://holopin.io/@sohinipurkait)
+
+<div align="center">
+  <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+  <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+  <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+</div>
+
 
 <div align="center">
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sohini-Purkait&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
   
 </div>
-<br></br>
+
+<div align="center">
+  <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+  <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+  <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+</div>
+
 
 <div align="center">
   
@@ -60,14 +85,24 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohini-Purkait&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
-<br></br>
+<div align="center">
+  <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+  <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+  <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+</div>
+
 <div align="center">
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sohini-Purkait&limit=5&theme=jolly&combine_all_yearly_contributions=true)
   
 </div>
-<br></br>
+<div align="center">
+  <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+  <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+  <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+</div>
+
 
 <div align="center">
 
@@ -76,11 +111,21 @@
 
   
 </div>
-  
-<h2 align="left">💓Support:</h2>
+ <div align="center">
+  <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+  <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+  <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+</div>
+ 
+<h2 align="center">💓Support💓</h2>
 
-<p><a href="https://ko-fi.com/Sohini-Purkait"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Sohini-Purkait" /></a></p>
-<br><br>
+<p align="center"><a href="https://ko-fi.com/Sohini-Purkait"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Sohini-Purkait" /></a></p>
+<div align="center">
+  <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+  <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+  <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">  
+</div>
+
 
 
 
