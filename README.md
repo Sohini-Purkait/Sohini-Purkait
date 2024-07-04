@@ -8,9 +8,11 @@
 <h3 align="center">A passionate Coding Enthusiast & an aspiring Software Engineer from India</h3>
 
 
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohini-purkait&label=Profile%20views&color=0e75b6&style=flat" alt="sohini-purkait" /> </p>
+
+[![](https://visitcount.itsvg.in/api?id=Sohini-Purkait&icon=4&color=11)](https://visitcount.itsvg.in)
 
 - 🌱 I’m currently learning **DSA & Full Stack Web Development**
 
