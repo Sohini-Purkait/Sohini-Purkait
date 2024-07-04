@@ -106,9 +106,11 @@
 </div>
 
 [![Sohini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sohini-Purkait&theme=chartreuse-dark)](https://github.com/Sohini-Purkait/github-readme-activity-graph)
+<div align="center" >
+  <img align="center" alt="coding"  src="https://ssr-contributions-svg.vercel.app/_/Sohini-Purkait?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_10&format=svg&weeks=30&theme=green&dark=true"> 
+</div>
 
 
-![image](https://github.com/Sohini-Purkait/Sohini-Purkait/assets/134941206/bce8dd89-4375-4607-a6d8-02f48afbffa5)
 
 <div align="center">
   <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
@@ -139,6 +141,8 @@
   <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
   <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">  
 </div>
+
+
 
 
 
