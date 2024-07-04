@@ -138,6 +138,21 @@
 
 <div align="center">
 
+<div align="center">
+
+# 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sohini_Purkait?theme=unicorn&font=Josefin%20Slab&ext=heatmap)
+
+  
+</div>
+
+<div align="center">
+  <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+  <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+  <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+</div>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
@@ -159,6 +174,8 @@
   <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
   <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">  
 </div>
+
+
 
 
 
