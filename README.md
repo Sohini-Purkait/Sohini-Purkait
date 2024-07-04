@@ -122,6 +122,21 @@
 </div>
 
 <div align="center">
+  
+  [![Sohini-Purkait's GitHub | Stats](https://stats.quira.sh/Sohini-Purkait/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Sohini-Purkait) 
+
+[![Sohini-Purkait's GitHub | Languages Over Time](https://stats.quira.sh/Sohini-Purkait/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Sohini-Purkait)
+
+</div>
+
+
+<div align="center">
+  <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+  <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+  <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+</div>
+
+<div align="center">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
