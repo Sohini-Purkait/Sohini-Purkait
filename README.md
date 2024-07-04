@@ -16,7 +16,10 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif">
 
-[![](https://visitcount.itsvg.in/api?id=Sohini-Purkait&icon=4&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Sohini-Purkait&icon=4&color=11)](https://visitcount.itsvg.in)<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Sohini-Purkait?color=236ad3&style=for-the-badge&logo=github&label=Follow"/> 
+<img src="https://img.shields.io/github/stars/Sohini-Purkait?label=Stars" alt="stars">
+
+
 
 - 🌱 I’m currently learning **DSA & Full Stack Web Development**
 
