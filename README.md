@@ -52,6 +52,7 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohini-purkait&show_icons=true&locale=en" alt="sohini-purkait" /></p>
 <br></br>
+<h2 align="center">⚡My Current Streak⚡</h2>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohini-purkait&" alt="sohini-purkait" /></p>
 
 
