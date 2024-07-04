@@ -41,13 +41,10 @@
 
 [![An image of @sohinipurkait's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sohinipurkait)](https://holopin.io/@sohinipurkait)
 
-<h3 align="left">💓Support:</h3>
 
-<p><a href="https://ko-fi.com/Sohini-Purkait"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Sohini-Purkait" /></a></p>
-<br><br>
 
 <br></br>
-
+<h2 align="center">🔥My GitHub Stats🔥</h2>
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohini-purkait&show_icons=true&locale=en&layout=compact" alt="sohini-purkait" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohini-purkait&show_icons=true&locale=en" alt="sohini-purkait" /></p>
@@ -55,4 +52,7 @@
 <h2 align="center">⚡My Current Streak⚡</h2>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohini-purkait&" alt="sohini-purkait" /></p>
 
+<h2 align="left">💓Support:</h2>
 
+<p><a href="https://ko-fi.com/Sohini-Purkait"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Sohini-Purkait" /></a></p>
+<br><br>
