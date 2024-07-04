@@ -1,8 +1,10 @@
 ![logo](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=A143F7&background=FCF8F700&center=true&vCenter=true&random=false&width=437&height=57&lines=Hello!++%F0%9F%91%8B+I+am+Sohini+Purkait" alt="Typing SVG" /></a>
-</h1>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4995&pause=1000&color=C43FF7&center=true&vCenter=true&random=false&width=435&lines=Hi%F0%9F%91%8B+There!;I+am+SOHINI+PURKAIT%F0%9F%92%81%E2%80%8D%E2%99%80%EF%B8%8F;Welcome+to+my+profile%F0%9F%98%8E)](https://git.io/typing-svg)
+
+</div>
 
 <h3 align="center">⭐A passionate Coding Enthusiast & an aspiring Software Engineer from India⭐</h3>
 
