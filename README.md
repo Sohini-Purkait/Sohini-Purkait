@@ -58,7 +58,7 @@
 
 [![An image of @sohinipurkait's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sohinipurkait)](https://holopin.io/@sohinipurkait)
 
-<<div align=center>
+<div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
    </a>
