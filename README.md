@@ -41,7 +41,8 @@
 
 [![An image of @sohinipurkait's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sohinipurkait)](https://holopin.io/@sohinipurkait)
 
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sohini-Purkait&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <br></br>
 <h2 align="center">🔥My GitHub Stats🔥</h2>
@@ -56,3 +57,5 @@
 
 <p><a href="https://ko-fi.com/Sohini-Purkait"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Sohini-Purkait" /></a></p>
 <br><br>
+
+
