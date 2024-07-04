@@ -103,6 +103,16 @@
   <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
 </div>
 
+[![Sohini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sohini-Purkait&theme=chartreuse-dark)](https://github.com/Sohini-Purkait/github-readme-activity-graph)
+
+
+![image](https://github.com/Sohini-Purkait/Sohini-Purkait/assets/134941206/bce8dd89-4375-4607-a6d8-02f48afbffa5)
+
+<div align="center">
+  <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+  <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+  <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+</div>
 
 <div align="center">
 
@@ -116,6 +126,8 @@
   <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
   <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
 </div>
+
+
  
 <h2 align="center">💓Support💓</h2>
 
@@ -128,6 +140,6 @@
 
 
 
-![image](https://github.com/Sohini-Purkait/Sohini-Purkait/assets/134941206/bce8dd89-4375-4607-a6d8-02f48afbffa5)
+
 
 
