@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=A143F7&background=FCF8F700&center=true&vCenter=true&random=false&width=437&height=57&lines=Hello!++%F0%9F%91%8B+I+am+Sohini+Purkait" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">A passionate Coding Enthusiast & an aspiring Software Engineer from India</h3>
+<h3 align="center">⭐A passionate Coding Enthusiast & an aspiring Software Engineer from India⭐</h3>
 
 <div align="center">
   <img align="center" alt="coding" width="200" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
