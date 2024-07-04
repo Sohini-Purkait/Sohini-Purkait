@@ -28,6 +28,14 @@
 
 <br></br>
 
+<div align="center">
+  <h2>🐍 Snake Eating My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Sohini-Purkait/Sohini-Purkait/output/github-contribution-grid-snake.svg" />
+
+  <br/><br/><br/>
+</div>
+
 <h3 align="left">Support:</h3>
 
 <p><a href="https://ko-fi.com/Sohini-Purkait"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Sohini-Purkait" /></a></p>
@@ -40,3 +48,5 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohini-purkait&show_icons=true&locale=en" alt="sohini-purkait" /></p>
 <br></br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohini-purkait&" alt="sohini-purkait" /></p>
+
+
