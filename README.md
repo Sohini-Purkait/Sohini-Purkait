@@ -41,21 +41,45 @@
 
 [![An image of @sohinipurkait's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sohinipurkait)](https://holopin.io/@sohinipurkait)
 
+<div align="center">
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sohini-Purkait&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+  
+</div>
 <br></br>
-<h2 align="center">🔥My GitHub Stats🔥</h2>
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohini-purkait&show_icons=true&locale=en&layout=compact" alt="sohini-purkait" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohini-purkait&show_icons=true&locale=en" alt="sohini-purkait" /></p>
+<div align="center">
+  
+  # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sohini-Purkait&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sohini-Purkait&theme=ocean_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohini-Purkait&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
 <br></br>
-<h2 align="center">⚡My Current Streak⚡</h2>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohini-purkait&" alt="sohini-purkait" /></p>
+<div align="center">
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sohini-Purkait&limit=5&theme=jolly&combine_all_yearly_contributions=true)
+  
+</div>
+<br></br>
+
+<div align="center">
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+  
+</div>
+  
 <h2 align="left">💓Support:</h2>
 
 <p><a href="https://ko-fi.com/Sohini-Purkait"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Sohini-Purkait" /></a></p>
 <br><br>
+
+
 
 
