@@ -6,7 +6,8 @@
 
 </div>
 
-<h3 align="center">⭐A passionate Coding Enthusiast & an aspiring Software Engineer from India⭐</h3>
+
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" align="center" alt="Grinning Cat" width="50" height="50" /> A passionate Coding Enthusiast & an aspiring Software Engineer from India <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" align="center" alt="Grinning Cat" width="50" height="50" /></h3>
 
 <div align=center>
    
@@ -25,7 +26,7 @@
 
 - 📫 How to reach me **purkaitsohini20@gmail.com**
 
-<h3 align="left">🙌Connect with me:</h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" align="center" alt="Grinning Cat" width="50" height="50" /> Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sohini-purkait-8b8348225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sohini purkait" height="30" width="40" /></a>
 <a href="https://instagram.com/sohini.supernova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sohini.supernova" height="30" width="40" /></a>
@@ -160,7 +161,7 @@
 
 
  
-<h2 align="center">💓Support💓</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Growing%20Heart.png" align=center alt="Growing Heart" width="50" height="50" /> Support <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Growing%20Heart.png" align=center alt="Growing Heart" width="50" height="50" /></h2>
 
 <p align="center"><a href="https://ko-fi.com/Sohini-Purkait"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Sohini-Purkait" /></a></p>
 <div align=center>
