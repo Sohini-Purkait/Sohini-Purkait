@@ -45,7 +45,7 @@
    
 </div>
 
-<div align="center">
+<div align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hear-No-Evil%20Monkey.png" align="center" alt="Hear-No-Evil Monkey" width="60" height="60" />
   <h2>🐍Snake Eating My Contributions🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Sohini-Purkait/Sohini-Purkait/output/github-contribution-grid-snake.svg" />
@@ -65,7 +65,7 @@
    
 </div>
 
-<div align="center">
+<div align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Partying%20Face.png" align="center" alt="Partying Face" width="60" height="60" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sohini-Purkait&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -78,7 +78,7 @@
    
 </div>
 
-<div align="center">
+<div align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" align="center" alt="Face with Monocle" width="60" height="60" />
   
   # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sohini-Purkait&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
