@@ -146,10 +146,10 @@
    
 </div>
 
-<div align=center>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<div align=center> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" align=center alt="Thinking Face" width="60" height="60" />
+  
+ ###  Random Dev Quote ✍️
+ ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
   
 </div>
