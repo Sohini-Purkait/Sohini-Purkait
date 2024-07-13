@@ -92,7 +92,7 @@
    
 </div>
 
-<div align="center">
+<div align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Peeking%20Eye.png" align="center" alt="Face with Peeking Eye" width="60" height="60" />
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sohini-Purkait&limit=5&theme=jolly&combine_all_yearly_contributions=true)
@@ -103,6 +103,8 @@
    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
    
 </div>
+
+<div align=center><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" align=center alt="Nerd Face" width="60" height="60" /></div>
 
 [![Sohini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sohini-Purkait&theme=chartreuse-dark)](https://github.com/Sohini-Purkait/github-readme-activity-graph)
 <div align="center" >
@@ -130,8 +132,7 @@
 </div>
 
 
-
-<div align="center">
+<div align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Zany%20Face.png" align="center" alt="Zany Face" width="60" height="60" />
 
 # 📊 LeetCode Stats
 
