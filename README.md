@@ -7,7 +7,7 @@
 </div>
 
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" align="center" alt="Grinning Cat" width="50" height="50" /> A passionate Coding Enthusiast & an aspiring Software Engineer from India <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" align="center" alt="Grinning Cat" width="50" height="50" /></h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" align="center" alt="Grinning Cat" width="50" height="50" />A passionate Coding Enthusiast & an aspiring Software Engineer from India<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" align="center" alt="Grinning Cat" width="50" height="50" /></h3>
 
 <div align=center>
    
